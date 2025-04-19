@@ -1,0 +1,125 @@
+{
+  "app": {
+    "title": "Malaysia Arab Guide",
+    "tagline": "Your comprehensive guide to Malaysia"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "noResults": "No results found",
+    "viewDetails": "View Details",
+    "favorite": "Favorite",
+    "search": "Search",
+    "all": "All",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "call": "Call",
+    "email": "Email",
+    "website": "Website",
+    "directions": "Directions",
+    "book": "Book",
+    "share": "Share"
+  },
+  "navigation": {
+    "nearby": "Nearby",
+    "explore": "Explore",
+    "tours": "Tours",
+    "prayer": "Prayer",
+    "profile": "Profile"
+  },
+  "nearby": {
+    "title": "Nearby Places",
+    "searchRadius": "Search radius:",
+    "km": "km",
+    "noNearbyPlaces": "No nearby places found in this radius"
+  },
+  "explore": {
+    "title": "Explore",
+    "searchPlaceholder": "Search places...",
+    "noMatchingResults": "No matching results"
+  },
+  "categories": {
+    "restaurant": "Restaurants",
+    "attraction": "Attractions",
+    "mosque": "Mosques",
+    "shopping": "Shopping",
+    "car_rental": "Car Rentals"
+  },
+  "features": {
+    "halal": "Halal",
+    "prayerRoom": "Prayer Room",
+    "halalFood": "Halal Food",
+    "muslimFriendly": "Muslim-Friendly"
+  },
+  "placeDetails": {
+    "info": "Info",
+    "reviews": "Reviews",
+    "location": "Location",
+    "description": "Description",
+    "address": "Address",
+    "features": "Features",
+    "hours": "Hours:",
+    "price": "Price:",
+    "cuisine": "Cuisine:",
+    "locationMap": "Location Map",
+    "getDirections": "Get Directions",
+    "noReviews": "No reviews yet"
+  },
+  "tourPackages": {
+    "title": "Tour Packages",
+    "days": "Days",
+    "noPackages": "No tour packages available",
+    "details": "Details",
+    "itinerary": "Itinerary",
+    "includedServices": "Included Services",
+    "excludedServices": "Excluded Services",
+    "tourOperator": "Tour Operator",
+    "bookingNotAvailable": "Booking feature will be implemented in the next version"
+  },
+  "prayerTimes": {
+    "title": "Prayer Times",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "selectCity": "Select City",
+    "nearestMosques": "Nearest Mosques"
+  },
+  "profile": {
+    "title": "Profile",
+    "login": "Login",
+    "logout": "Logout",
+    "settings": "Settings",
+    "language": "Language",
+    "arabic": "Arabic",
+    "english": "English",
+    "dataSource": "Data Source",
+    "dummy": "Dummy Data",
+    "supabase": "Supabase",
+    "favorites": "Favorites",
+    "noFavorites": "No favorites yet",
+    "about": "About",
+    "version": "Version",
+    "contactUs": "Contact Us",
+    "termsAndConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "loginSuccess": "Login successful",
+    "loginError": "Login error",
+    "logoutSuccess": "Logout successful",
+    "invalidCredentials": "Invalid credentials"
+  }
+}
