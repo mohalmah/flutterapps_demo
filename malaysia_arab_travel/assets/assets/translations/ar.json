@@ -21,7 +21,8 @@
     "website": "الموقع الإلكتروني",
     "directions": "الاتجاهات",
     "book": "حجز",
-    "share": "مشاركة"
+    "share": "مشاركة",
+    "refresh": "تحديث"
   },
   "navigation": {
     "nearby": "القريب",
@@ -90,7 +91,15 @@
     "maghrib": "المغرب",
     "isha": "العشاء",
     "selectCity": "اختر المدينة",
-    "nearestMosques": "المساجد القريبة"
+    "nearestMosques": "المساجد القريبة",
+    "enableAlarm": "تفعيل منبه الأذان",
+    "disableAlarm": "إيقاف منبه الأذان",
+    "nextPrayer": "الصلاة القادمة",
+    "time": "الوقت",
+    "remaining": "المتبقي",
+    "useAutoLocation": "استخدام الموقع الحالي",
+    "autoLocationEnabled": "تم تفعيل تحديد الموقع تلقائيا",
+    "viewMore": "عرض تفاصيل أوقات الصلاة"
   },
   "profile": {
     "title": "الملف الشخصي",

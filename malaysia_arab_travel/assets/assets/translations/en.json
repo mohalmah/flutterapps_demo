@@ -21,7 +21,8 @@
     "website": "Website",
     "directions": "Directions",
     "book": "Book",
-    "share": "Share"
+    "share": "Share",
+    "refresh": "Refresh"
   },
   "navigation": {
     "nearby": "Nearby",
@@ -90,7 +91,15 @@
     "maghrib": "Maghrib",
     "isha": "Isha",
     "selectCity": "Select City",
-    "nearestMosques": "Nearest Mosques"
+    "nearestMosques": "Nearest Mosques",
+    "enableAlarm": "Enable alarm",
+    "disableAlarm": "Disable alarm",
+    "nextPrayer": "Next Prayer",
+    "time": "Time",
+    "remaining": "Remaining",
+    "useAutoLocation": "Use current location",
+    "autoLocationEnabled": "Auto location enabled",
+    "viewMore": "View prayer times details"
   },
   "profile": {
     "title": "Profile",
