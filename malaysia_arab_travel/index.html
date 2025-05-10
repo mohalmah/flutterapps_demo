@@ -29,15 +29,29 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
+  <!-- Load Cairo font from Google Fonts for better Arabic support -->
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
   <title>malaysia_arab_guide</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1634966430";
+    const serviceWorkerVersion = "4046319738";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
+  
+  <style>
+    /* Fix for green banner at the top */
+    .flutter-loader { visibility: hidden; }
+    
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Cairo', sans-serif;
+    }
+  </style>
 </head>
 <body>
   <script>
